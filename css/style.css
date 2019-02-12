@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'loopyregular';
-    src: url('fonts/loopy___.woff2') format('woff2'),
-         url('fonts/loopy___.woff') format('woff');
+    src: url('../fonts/loopy___.woff2') format('woff2'),
+         url('../fonts/loopy___.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
